@@ -1,0 +1,7 @@
+*
+!.gitignore
+!conf/
+!conf/*.conf
+!conf/sites-enabled/
+!conf/sites-enabled/*.conf
+!README.md 
